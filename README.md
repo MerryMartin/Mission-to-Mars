@@ -11,6 +11,8 @@ For this project, I am working with a data analyst named Robin to help Space For
 * On average, month 3 has the lowest temperature and month 8 has the highest temperature.  
 
 
+
+
 ### Average Temperature Per Month:
 ![avg_low](https://user-images.githubusercontent.com/115426070/211402911-38c2190e-aac5-4ba2-850d-0e9b807a0857.png)
 
